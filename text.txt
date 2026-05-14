@@ -1,1 +1,2 @@
 this is a test of some writing for the git project update
+this is a second line 
